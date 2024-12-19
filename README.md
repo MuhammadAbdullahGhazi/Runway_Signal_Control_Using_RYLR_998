@@ -34,7 +34,7 @@ This project demonstrates how to use LoRa technology to control relays remotely 
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/lora-project-relay-control.git
+   git clone https://github.com/MuhammadAbdullahGhazi/Runway_Signal_Control_Using_RYLR_998.git
    ```  
 2. Install the required Arduino libraries:  
    - LoRa by Sandeep Mistry  
