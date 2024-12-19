@@ -1,4 +1,4 @@
-# LoRa Project: Arduino & ESP8266 Control Relays (2022)
+# LoRa Project: Runway signal control using RYLR998
 
 ## Overview  
 This project demonstrates how to use LoRa technology to control relays remotely with Arduino and ESP8266. It leverages LoRa communication modules to enable long-distance relay control, making it ideal for home automation, IoT, and other wireless control applications.
